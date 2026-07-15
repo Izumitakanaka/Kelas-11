@@ -1,0 +1,14 @@
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\obj\Debug\net10.0\pengulangan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\obj\Debug\net10.0\pengulangan.AssemblyInfoInputs.cache
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\obj\Debug\net10.0\pengulangan.AssemblyInfo.cs
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\obj\Debug\net10.0\pengulangan.csproj.CoreCompileInputs.cache
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\bin\Debug\net10.0\pengulangan.exe
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\bin\Debug\net10.0\pengulangan.deps.json
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\bin\Debug\net10.0\pengulangan.runtimeconfig.json
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\bin\Debug\net10.0\pengulangan.dll
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\bin\Debug\net10.0\pengulangan.pdb
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\obj\Debug\net10.0\pengulangan.dll
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\obj\Debug\net10.0\refint\pengulangan.dll
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\obj\Debug\net10.0\pengulangan.pdb
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\obj\Debug\net10.0\pengulangan.genruntimeconfig.cache
+C:\Users\LIVA\source\repos\pengulangan\pengulangan\obj\Debug\net10.0\ref\pengulangan.dll

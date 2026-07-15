@@ -1,0 +1,14 @@
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\obj\Debug\net10.0\ArrrayDanKoleksiDasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\obj\Debug\net10.0\ArrrayDanKoleksiDasar.AssemblyInfoInputs.cache
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\obj\Debug\net10.0\ArrrayDanKoleksiDasar.AssemblyInfo.cs
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\obj\Debug\net10.0\ArrrayDanKoleksiDasar.csproj.CoreCompileInputs.cache
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\bin\Debug\net10.0\ArrrayDanKoleksiDasar.exe
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\bin\Debug\net10.0\ArrrayDanKoleksiDasar.deps.json
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\bin\Debug\net10.0\ArrrayDanKoleksiDasar.runtimeconfig.json
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\bin\Debug\net10.0\ArrrayDanKoleksiDasar.dll
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\bin\Debug\net10.0\ArrrayDanKoleksiDasar.pdb
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\obj\Debug\net10.0\ArrrayDanKoleksiDasar.dll
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\obj\Debug\net10.0\refint\ArrrayDanKoleksiDasar.dll
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\obj\Debug\net10.0\ArrrayDanKoleksiDasar.pdb
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\obj\Debug\net10.0\ArrrayDanKoleksiDasar.genruntimeconfig.cache
+C:\Users\LIVA\source\repos\ArrrayDanKoleksiDasar\ArrrayDanKoleksiDasar\obj\Debug\net10.0\ref\ArrrayDanKoleksiDasar.dll
